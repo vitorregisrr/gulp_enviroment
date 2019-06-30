@@ -1,6 +1,6 @@
 .main-footer {
     padding: 60px 0 20px;
-    background-color: $sp-color-primary;
+    background-color: $color-primary;
     letter-spacing: 1px;
     color: hsl(60, 100%, 98%);
 
@@ -10,7 +10,7 @@
 
     &__title {
         font-family: 'Myriad Pro Semibold', sans-serif;
-        color: $sp-color-secondary;
+        color: $color-secondary;
         font-size: 22px;
         font-weight: 500;
         text-transform: uppercase;
@@ -73,7 +73,7 @@
     &__contact {
 
         &__submit {
-            color: $sp-color-secondary;
+            color: $color-secondary;
             font-size: 15px;
             font-family: 'Myriad Pro Bold', sans-serif;
             text-transform: uppercase;

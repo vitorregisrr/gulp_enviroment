@@ -33,11 +33,11 @@
 }
 
 .color-primary {
-    color: $sp-color-primary !important;
+    color: $color-primary !important;
 }
 
 .color-secondary {
-    color: $sp-color-secondary !important;
+    color: $color-secondary !important;
 }
 
 .border-light {
@@ -47,7 +47,7 @@
 .price {
     font-size: 30px;
     font-weight: bold;
-    color: $sp-color-primary !important;
+    color: $color-primary !important;
 
     .total {
         font-size: 25px;
